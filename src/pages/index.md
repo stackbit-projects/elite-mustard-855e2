@@ -284,7 +284,7 @@ sections:
       - title: Hilary Ouse
         subtitle: Operations Manager
         title_align: center
-        image: images/hilary-ouse.jpg
+        image: images/bold/icon-1.svg
         image_position: top
     grid_cols: four
     align: center
