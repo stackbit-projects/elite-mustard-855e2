@@ -223,7 +223,7 @@ sections:
 
 
           **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
+        image: images/bold/logo.svg
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
